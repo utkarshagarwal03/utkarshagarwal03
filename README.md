@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarshagarwal03
 - 👀 I’m interested in Coding and Hacking
-- 🌱 I’m currently learning C++ and Ethical Hacking
+- 🌱 I’m currently learning Java and Ethical Hacking
 - 📫 How to reach me utkarshagr2005@gmail.com
 
 <!---
