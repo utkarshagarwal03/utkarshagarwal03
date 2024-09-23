@@ -1,3 +1,10 @@
+https://readme-typing-svg.demolab.com/demo/?lines=Hi+My+Name+is+Utkarsh!
+
+
+
+
+
+
 - 👋 Hi, I’m @utkarshagarwal03.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Java and DSA.
