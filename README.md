@@ -1,5 +1,4 @@
-https://readme-typing-svg.demolab.com/demo/?lines=Hi+My+Name+is+Utkarsh!
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+Name+is+Utkarsh!)](https://git.io/typing-svg)
 
 
 
