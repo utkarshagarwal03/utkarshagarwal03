@@ -1,25 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%E2%97%8F%F0%9F%91%8B+Hi%2C+I%E2%80%99m+utkarshagarwal03.)](https://git.io/typing-svg)
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Java and DSA.
-- 📫 How to reach me utkarshagr2005@gmail.com
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=utkarshagarwal03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<!---
-utkarshagarwal03/utkarshagarwal03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/utkarsh-agarwal05/">Utkarsh Agarwal</a><img src=https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" height="50" /></h1>
+ - 👀 I’m interested in Coding.<br>
+ - 🌱 I’m currently learning Java and DSA.<br>
+ - 📫 How to reach me utkarshagr2005@gmail.com
+<br>
+<br>
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<table width="100%" align="center">
+<tr>
+<td>
+<img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarshagarwal03&theme=github_dark" alt="Profile Summary">
+</td>
+</tr>
+</table>
+<br>
+<summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</a>
 </div>
