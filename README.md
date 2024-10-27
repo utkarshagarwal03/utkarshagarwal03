@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=utkarshagarwal03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/utkarsh-agarwal05/">Utkarsh Agarwal</a> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30" /></h1>
-<img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241026%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241026T114113Z&X-Amz-Expires=300&X-Amz-Signature=57a601a402fdeb78cf35f374427d12ad4e74d7c3753226eb58d7fb2a61960413&X-Amz-SignedHeaders=host" alt="Profile Image" width="240"/>
+<img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241027%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241027T121353Z&X-Amz-Expires=300&X-Amz-Signature=3edd8e3397370c16cec0ae993dce197a3e08a4c055ed4d51b5bf33b88cc1711b&X-Amz-SignedHeaders=host" alt="Profile Image" width="240" />
 
 - 👀 I’m interested in Coding. <br>
 - 🌱 I’m currently learning Java and DSA. <br>
@@ -11,7 +11,7 @@
 
 <br>
 <br>
-
+<br>
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
 
@@ -35,5 +35,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Footer" height="2"/>
 </p>
